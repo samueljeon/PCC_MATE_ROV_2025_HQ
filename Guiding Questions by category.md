@@ -37,8 +37,11 @@
 1. How long does international shipping (specifically China) usually take?
 2. Where is the fab-lab?
 3. Any tools that we are missing? (check inventory)
+4. Our team has overseas access to a HAAS Vf 2ss CNC machine. How significant of an advantage could this bring?
+
    
 ## 8. Budget-related
+1. How much finance do we have *exactly*?
 
 ## 9. Working on the ROV
 1. Do all the group members know how to use all the necessary software for developing, designing, troubleshooting and testing the robot?
@@ -46,6 +49,7 @@
 3. Are they easily accessible? Are they free? If not, can we get a free student subscription?
    
 ## 10. Misc
+
 
 
 
