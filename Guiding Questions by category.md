@@ -14,21 +14,21 @@
 2. How is the camera feedback relayed to the controller?
 3. How do we upload software to the ROV? Any cables / adapters / software / drivers for doing so?
 4. (related to 2-2) What microcontroller is used to control the robot?
-5. Previous competition guidelines featured as 3-D scanning objective. How do we implement this?
+5. Previous competition guidelines feature a 3-D scanning objective. How do we implement this?
 
 ## 4. ROV - Piloting 
 1. Where can we practice controlling and using the robot? Indoor pools? School pool?
 2. Any simulator software that emulates the underwater environment and controls?
-3. Who will be the pilot of the team? Can we have multiple pilots?
+3. Who will be the pilot of the team? Can we have multiple pilots, one for the main motion, another for arm control?
 4. (related to 3-1) What physical piloting interface should be used?
    
 ## 5. Competition
-1. What exactly are the competition objectives / Missions?
+1. What exactly are the competition objectives / missions?
 2. Rules and regluations pertaining to the design / capabilities of the ROV?
-3. What are the marketing aspectcs of the competition?
+3. What are the marketing aspects of the competition?
 4. Dress code?
 5. How much time do we have to rehearse everything?
-6. 
+
 ## 6. Safety & technical documents
 1. What do good safety documents that score well look like? Any past examples?
 2. Who will be in charge of writing the documents? Will this be a team-effort instead?
