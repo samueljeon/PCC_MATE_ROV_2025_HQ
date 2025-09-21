@@ -11,4 +11,5 @@
 1. Establish Google Sheets Inventory.
 2. Determine whether a Slack / alternative project managing application will be necessary.
 3. Touch base with Doug & receive documentations / specifications / etc etc.
-4. Research more about the MATE ROV competition & its regulations. 
+4. Research more about the MATE ROV competition & its regulations.
+5. Install platformio for arduino coding version control. (Hector's recommendation)
